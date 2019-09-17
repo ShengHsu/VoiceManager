@@ -1,5 +1,6 @@
+
 # VoiceManager
-Swift VoiceManager
+![](https://img.shields.io/badge/platform-ios-lightgrey) ![](https://img.shields.io/badge/swift-5-yellow)  
 
 ```
 startEnable:Bool 錄音狀態
